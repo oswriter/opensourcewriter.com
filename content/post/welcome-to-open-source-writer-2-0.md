@@ -1,7 +1,7 @@
 +++
 date = "2017-03-05"
 title = "Welcome to Open Source Writer 2.0"
-description = "The Solus Future Is Now"
+description = "The Solus future is now"
 tags = ["Solus"]
 
 +++

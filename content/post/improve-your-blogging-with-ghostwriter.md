@@ -22,7 +22,7 @@ For example, here is how I typed the headline and first paragraph of this sectio
 	
 Many Linux text editors, such as [Atom](https://atom.io/) and [gedit](https://wiki.gnome.org/Apps/Gedit), support Markdown syntax natively. But Ghostwriter is a Markdown-specific editor and offers a live, see-it-as-you-go preview of the finished HTML.
 
-![](/images/2016-03-03-ghostwriter.png)
+![](/images/2017-03-03-ghostwriter.png)
 
 By default Ghostwriter formats its live preview in the style used by [Github](https://github.com/), but you can import the custom style sheet (CSS) from your own blog or website to get a more accurate rendering. You can also copy or export the converted HTML code if your blog platform does not accept Markdown directly, although many do, including [Ghost](https://ghost.org/) and [Hugo](https://gohugo.io/) (which this site uses).
 
