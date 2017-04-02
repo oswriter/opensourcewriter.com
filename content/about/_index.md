@@ -32,7 +32,7 @@ The [Federal Trade Commission](https://www.ftc.gov/news-events/press-releases/20
 
 ### Website Credits
 
-**Open Source Writer** is powered by [Hugo](https://gohugo.io/), a fast and modern static website engine created by [Steve Francia](https://github.com/spf13). This blog uses a (slightly modified) version of the [Cactus theme](https://gohugo.io/) originally developed by [Nick Balestra](https://github.com/nickbalestra/kactus) for [Jekyll](https://jekyllrb.com/), ported to Hugo by [digitalcraftsmen](https://github.com/digitalcraftsman), and used here under the [MIT License](https://github.com/digitalcraftsman/hugo-cactus-theme/blob/dev/LICENSE.md).
+**Open Source Writer** is powered by [Hugo](https://gohugo.io/), a fast and modern static website engine created by [Steve Francia](https://github.com/spf13). This blog uses a (slightly modified) version of the [Cactus theme](https://github.com/digitalcraftsman/hugo-cactus-theme) originally developed by [Nick Balestra](https://github.com/nickbalestra/kactus) for [Jekyll](https://jekyllrb.com/), ported to Hugo by [digitalcraftsmen](https://github.com/digitalcraftsman), and used here under the [MIT License](https://github.com/digitalcraftsman/hugo-cactus-theme/blob/dev/LICENSE.md).
 
 **Open Source Writer** is hosted on a [DigitalOcean](https://www.digitalocean.com/) droplet running [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/).
 
