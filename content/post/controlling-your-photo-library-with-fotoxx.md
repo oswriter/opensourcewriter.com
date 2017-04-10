@@ -8,7 +8,7 @@ date = "2017-04-03"
 
 I was implementing a new template for my [professional website](https://skipoliva.com) last week and needed to crop some images. I've never been terribly good with image software, but fortunately I found a fairly straightforward program called [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) in the [Solus](https://solus-project.com) Software Center. Fotoxx is really geared towards photo management, but it works well as a basic image editor.
 
-**Simple Interface, Complex Tools**
+## Simple Interface, Complex Tools
 
 Fotoxx has a very simple interface. An icon bar on the left side of the screen functions as the menu. Image files contained in system folders are displayed as a thumbnail gallery.
 
@@ -22,11 +22,11 @@ Fotoxx also lets you edit the metadata of your image files. This includes taggin
 
 One final notable feature of Fotoxx: You can instantly create slideshows from a folder or selection of images. There are a couple of dozen transition animations available, and you can even add a music file to play during the slideshow. 
 
-**Who Is Behind Fotoxx?**
+## Who Is Behind Fotoxx?
 
 Fotoxx celebrated its most recent release (v. 17.04) on April 1. [Solus](https://git.solus-project.com/packages/fotoxx) currently has the 17.01 release available. Fotoxx is also widely available for Ubuntu-, Debian-, and Fedora-based systems. The creator and lead developer is [Michael Cornelison](https://kornelix.blogspot.com/). He's made Fotoxx available under the [GNU General Public License v. 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-**Editor's Note**
+### Editor's Note
 
 The [original color photograph](https://commons.wikimedia.org/wiki/File:VW_ccon_arte_mexicano.jpg) of the automobile shown above is by Reyung Cho and used here under a [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
