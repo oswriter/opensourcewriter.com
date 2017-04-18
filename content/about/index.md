@@ -1,6 +1,7 @@
 +++
 date = "2016-03-05"
 title = "About"
+hidden = "true"
 +++
 
 ### License
@@ -16,15 +17,15 @@ for any commercial or non-commercial purpose, provided you follow the following 
 * You provide a link to the [Creative Commons license]((https://creativecommons.org/licenses/by/4.0/)).
 * You indicate if any were changes were made when creating a derivative work.
 
-The content of this blog is provided to the public "as-is" and without any express or implied warranties. S.M. Oliva is not responsible for the republication the content of this blog on other web sites or media without our permission. 
+The content of this blog is provided to the public "as-is" and without any express or implied warranties. S.M. Oliva is not responsible for the republication the content of this blog on other web sites or media without our permission.
 
 ### Privacy Policy
 
-S.M. Oliva, the publisher of **Open Source Writer**, does not share personal information with third parties or use any data collected from your visit to this blog for any use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser's settings. (And to be honest, I'm probably not actually doing such analysis.) 
+S.M. Oliva, the publisher of **Open Source Writer**, does not share personal information with third parties or use any data collected from your visit to this blog for any use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser's settings. (And to be honest, I'm probably not actually doing such analysis.)
 
 ### FTC Disclosure Policy
 
-The [Federal Trade Commission](https://www.ftc.gov/news-events/press-releases/2009/10/ftc-publishes-final-guides-governing-endorsements-testimonials) requires bloggers to disclose any "material connections" with the subjects they cover. In other words, the public has a right to know if the blogger has been paid to review a product. Rest assured, **Open Source Writer** is 100 percent honest and above-board. This blog is non-commercial and does not (and will not) generate revenue. 
+The [Federal Trade Commission](https://www.ftc.gov/news-events/press-releases/2009/10/ftc-publishes-final-guides-governing-endorsements-testimonials) requires bloggers to disclose any "material connections" with the subjects they cover. In other words, the public has a right to know if the blogger has been paid to review a product. Rest assured, **Open Source Writer** is 100 percent honest and above-board. This blog is non-commercial and does not (and will not) generate revenue.
 
 ### No Affiliation or Endorsement
 
