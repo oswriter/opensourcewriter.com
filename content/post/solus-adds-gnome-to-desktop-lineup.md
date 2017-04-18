@@ -14,7 +14,7 @@ The [Solus Project](https://solus-project.com/) confirmed that it is adding a th
 
 [Budgie](https://budgie-desktop.org), the flagship Solus desktop, is currently built on the graphical toolkit (GTK+) and several software components originally developed for GNOME 3. But earlier this year, [Doherty announced](https://budgie-desktop.org/2017/01/25/kicking-off-budgie-11/) the next major release of Budgie would move from GTK+ to the [Qt tooklit](https://www.qt.io/) as part of the process of "undoing this deep coupling to the GNOME stack." Given this eventual "decoupling," Doherty told Softpedia, he wanted to "fully support our GNOME loving/using userbase" by making the full GNOME desktop available now.
 
-Budgie will still remains connected to the GNOME stack for the immediate future. The upcoming Budgie 10.3 release is expected to include the latest version of the GNOME stack (3.24). The transition to Qt will not occur until the release of Budgie 11, which has yet to begin development.
+Budgie will still remain connected to the GNOME stack for the immediate future. The upcoming Budgie 10.3 release is expected to include the latest version of the GNOME stack (3.24). The transition to Qt will not occur until the release of Budgie 11, which has yet to begin development.
 
 Solus has also maintained a [separate edition based on the MATE desktop](https://solus-project.com/2016/10/19/solus-1-2-1-shannon-released/) since last October. MATE is an update of the older GNOME 2 desktop, which was discontinued in 2010. Solus has made a number of independent contributions to MATE, notably an updated [brisk menu](https://github.com/solus-project/brisk-menu) written by Doherty. 
 
