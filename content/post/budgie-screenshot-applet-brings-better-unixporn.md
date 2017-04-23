@@ -19,7 +19,7 @@ When you click the widget's icon, you are presented with three screenshot option
 
 ![Budgie Screenshot Applet - Main Menu](/images/2017-04-10-bsa-main-menu.png)
 
-Indeed, the settings menu is quite comprehensive. You can create both "global" and "individual" settings for a number of items, including time delay (in seconds), whether to include the pointer, the folder to save images to, and even whether to automatically upload your images to a cloud service like [Imgur]. The individual settings let you set different time delays for different screenshot types--e.g., 5 seconds for windows and 10 seconds for selections--as well as designate which monitor to use for full-screen shots.
+Indeed, the settings menu is quite comprehensive. You can create both "global" and "individual" settings for a number of items, including time delay (in seconds), whether to include the pointer, the folder to save images to, and even whether to automatically upload your images to a cloud service like [Imgur](http://imgur.com/). The individual settings let you set different time delays for different screenshot types--e.g., 5 seconds for windows and 10 seconds for selections--as well as designate which monitor to use for full-screen shots.
 
 ![Budgie Screenshot Applet - Global Settings](/images/2017-04-10-bsa-global.png)
 
