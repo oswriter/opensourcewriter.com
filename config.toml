@@ -11,8 +11,8 @@ disqusShortname = ""
 [params]
 	name = "Open Source Writer"
 	author = "S.M. Oliva"
-	description = "A blog highlighting software applications for the Solus operating system"
-	bio = "A Mystical Journey Through the Solus Software Center"
+	description = "A blog highlighting software applications Solus, a Linux-based operating system"
+	bio = "Software for Solus"
 	# Enter optionally your twitter account
 	twitter = ""
 	enableRSS = true
@@ -27,7 +27,7 @@ disqusShortname = ""
 
 	# Navigation links
 	home = ""
-	about = "Legal"
+	about = "About"
 	subscribe = "RSS"
 	# Pagination links
 	olderPosts = ""
