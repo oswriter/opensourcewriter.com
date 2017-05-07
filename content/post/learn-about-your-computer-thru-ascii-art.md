@@ -1,6 +1,6 @@
 +++
 date = "2017-05-01"
-description = "Neofetch is highly customizable system info script"
+description = "Neofetch is a highly customizable system info script"
 tags = ["System Utilities"]
 title = "Learn About Your Computer Thru ASCII Art"
 
