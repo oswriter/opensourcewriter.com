@@ -1,6 +1,6 @@
 +++
 date = "2017-05-08"
-description = "Pwgen creates passwords which can be easily memorized by a human."
+description = "Pwgen creates passwords that can be easily memorized by a human"
 tags = ["Security Applications"]
 title = "Do Something About Your Terrible Passwords"
 
