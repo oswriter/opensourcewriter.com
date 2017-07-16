@@ -1,54 +1,38 @@
-# Site settings
 baseurl = "https://opensourcewriter.com/"
-languageCode = "en-us"
 title = "Open Source Writer"
-theme = "hugo-cactus-theme"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
-# Disable comments by leaving disqusShortname empty
-disqusShortname = ""
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-[params]
-	name = "Open Source Writer"
-	author = "S.M. Oliva"
-	description = "A blog highlighting software applications Solus, a Linux-based operating system"
-	bio = "Software for Solus"
-	# Enter optionally your twitter account
-	twitter = ""
-	enableRSS = true
+[Author]
+    name = "S.M. Oliva"
+    bio = "I have over 16 years experience writing for the web. Currently I ghostwrite content for more than a dozen law blogs, covering subjects from personal injury and bankruptcy to criminal defense and intellectual property."
+    avatar = "images/inn.jpg"
 
-	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
-	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
-	customCSS = []
-	customJS  = []
+[Params]
+    subtitle = "Solus is Life" # Subtitle of your site
+    description = "A guide to using software on Solus, a Linux-based operating system" # Description of your site
+    opengraph = true
+    readmore = true # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+    #dateformat = "2006-01-02" # change the format of dates
 
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
-
-	# Navigation links
-	home = ""
-	about = "About"
-	subscribe = "RSS"
-	# Pagination links
-	olderPosts = ""
-	newerPosts = ""
-	readMore = ""
-	copyright = "Open Source Writer by [S.M. Oliva](https://skipoliva.com) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)."
-	# Sharing options and author information in posts
-  aboutAuthor = "By S.M. Oliva"
-	tweet = ""
-	share = ""
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
-
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "font-awesome"
-    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    socialIconStyle = "circle"
-
-# Add additional social link entries underneath
-[social]
-    github   = "https://www.github.com/oswriter"
-		google-plus-circle = "https://plus.google.com/u/1/114649717339477494492"
-		telegram = "https://t.me/oswriter"
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = false # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+    social = true # Enable "Social" widget
+    social_facebook = ""
+    social_twitter = ""
+    social_linkedin = ""
+    social_github = "oswriter"
+    social_email = "smo@skipoliva.com"

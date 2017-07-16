@@ -1,6 +1,8 @@
 +++
 date = "2016-03-05"
 title = "About"
+hidden = "true"
+menu = "main"
 +++
 
 ### License
@@ -28,14 +30,10 @@ The [Federal Trade Commission](https://www.ftc.gov/news-events/press-releases/20
 
 ### No Affiliation or Endorsement
 
-**Open Source Writer** and its publisher, S.M. Oliva, have no affiliation with [Solus Project](https://solus-project.com) or any of the other software projects discussed on this blog. Nothing written on this website should be construed as an endorsement by Solus or any of its developers.
+**Open Source Writer** and its publisher, S.M. Oliva, have no affiliation with [Solus Project](https://solus-project.com) or any of the other software projects discussed on this blog. Nothing written on this website should be construed as an endorsement by the Solus Project or any of its developers.
 
 ### Website Credits
 
-**Open Source Writer** is powered by [Hugo](https://gohugo.io/), a fast and modern static website engine created by [Steve Francia](https://github.com/spf13). This blog uses a (slightly modified) version of the [Cactus theme](https://github.com/digitalcraftsman/hugo-cactus-theme) originally developed by [Nick Balestra](https://github.com/nickbalestra/kactus) for [Jekyll](https://jekyllrb.com/), ported to Hugo by [digitalcraftsmen](https://github.com/digitalcraftsman), and used here under the [MIT License](https://github.com/digitalcraftsman/hugo-cactus-theme/blob/dev/LICENSE.md).
+**Open Source Writer** is powered by [Hugo](https://gohugo.io/), a fast and modern static website engine created by [Steve Francia](https://github.com/spf13). This blog uses a (slightly modified) version of the [Mainroad](https://github.com/Vimux/mainroad) theme originally developed by [Vimux](https://github.com/Vimux), which is used here under the [GNU General Public License v2.0](https://github.com/Vimux/mainroad/blob/master/LICENSE.md).
 
 **Open Source Writer** is hosted on a [DigitalOcean](https://www.digitalocean.com/) droplet running [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/).
-
-### Questions and Comments
-
-If you would like to contact the publisher regarding the content of this website, email oswriter2@gmail.com.
