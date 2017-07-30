@@ -8,7 +8,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
     name = "S.M. Oliva"
-    bio = "I have over 16 years experience writing for the web. Currently I ghostwrite content for more than a dozen law blogs, covering subjects from personal injury and bankruptcy to criminal defense and intellectual property."
+    bio = "I have been writing content for the web professionally since 2000. Currently I ghostwrite blogs for more than a dozen law firms, covering subjects from personal injury and bankruptcy to criminal defense and intellectual property."
     avatar = "images/inn.jpg"
 
 [Params]
