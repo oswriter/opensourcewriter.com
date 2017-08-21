@@ -28,7 +28,7 @@ As noted above, Solus and many other Linux distributions use LUKS to provide ful
 Here are some other programs I found, just in the Solus repository, that would also be problematic for a person under a probation-related encryption ban:
 
 + [zuluCrypt](https://mhogomchungu.github.io/zuluCrypt/), which encrypts hard drives and manages volumes encrypted by LUKS and other programs. 
-+ [GNU Privacy Guard](https://gnupg.org/) (GPG), which allows for encryption of individual files through a number of front-ends, including a number of email programs.
++ [GNU Privacy Guard](https://gnupg.org/) (GPG), which allows for encryption of individual files through a number of front-ends, including many email programs. GPG works in tandem with the OpenPGP standard to provide cryptographically proven signatures, verifying authenticity of content.
 + [Seahorse](https://wiki.gnome.org/Apps/Seahorse), which manages passwords and encryption keys, and can be used to encrypt or decrypt individual files via an extension to the Nautilus file manager for the GNOME desktop.
 + [Encryptr](https://spideroak.com/encryptr/), an encrypted password manager published by SpiderOak.
 
