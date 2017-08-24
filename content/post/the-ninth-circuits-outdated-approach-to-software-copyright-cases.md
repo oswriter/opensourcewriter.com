@@ -9,7 +9,7 @@ In most civil trials, such as personal injury claims, expert testimony is an inv
 
 **Jury Rules EA Illegally Reused Game Developer's Original Code**
 
-Last month, a computer programmer named Robin Antonick asked the Supreme Court to review and overturn a November 2016 decision by the U.S. Ninth Circuit Court of Appeals in San Francisco. Antonick was one of the original developers of John Madden Football, which was first published by Electronic Arts (EA) in 1988 for the Apple II. Antonick retained the copyright, and his contract with EA stated that he would receive royalties for any "derivative work" based on his code.
+Last month, a computer programmer named Robin Antonick [petitioned the Supreme Court](http://www.scotusblog.com/wp-content/uploads/2017/08/17-168-petition.pdf) to review and overturn a November 2016 decision by the U.S. Ninth Circuit Court of Appeals in San Francisco. Antonick was one of the original developers of John Madden Football, which was first published by Electronic Arts (EA) in 1988 for the Apple II. Antonick retained the copyright, and his contract with EA stated that he would receive royalties for any "derivative work" based on his code.
 
 The Apple II version of John Madden Football was later ported to other platforms. At issue here are the versions developed for the Sega Genesis and Super Nintendo game consoles during the 1990s. At the time, EA told Antonick these versions were "developed independently" and did not reuse any of his original code. Thus, they were not derivative works subject to his copyright. It was not until 2009, Antonick claimed, that he learned the company hired by EA to develop the Genesis and Super Nintendo versions "had access to his design and code."
 
