@@ -1,7 +1,8 @@
 +++
 title = "Hugo Leads the Static Web Revolution"
-tags = ["Programming"]
-description = "Hugo is a fast and modern static website engine built in GoLang"
+categories = ["Reviews"]
+tags = ["Hugo", "WordPress", "Apache", "DigitalOcean", "Markdown", "Steve Francia"]
+description = "Hugo is a fast and modern static website engine built in GoLang."
 date = "2017-03-13"
 
 +++
@@ -25,4 +26,4 @@ When your site is ready, enter `hugo` without any additional arguments. This gen
 
 ## Need More Information About Hugo?
 
-Hugo is available for multiple platforms, including Solus and most popular Linux distributions, as well as FreeBSD, Windows, and macOS. The creator and lead developer is [Steve Francia](https://github.com/spf13). He's licensed Hugo under the [Apache License v. 2.0](https://github.com/spf13/hugo/blob/master/LICENSE.md). 
+Hugo is available for multiple platforms, including Solus and most popular Linux distributions, as well as FreeBSD, Windows, and macOS. The creator and lead developer is [Steve Francia](https://github.com/spf13). He's licensed Hugo under the [Apache License v. 2.0](https://github.com/spf13/hugo/blob/master/LICENSE.md).

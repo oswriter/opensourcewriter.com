@@ -1,8 +1,9 @@
 +++
 date = "2017-04-10"
 title = "Budgie Screenshot Applet Brings Better UnixPorn"
-description = "Take a shot of your desktop, a window, or region"
-tags = ["Budgie Desktop"]
+description = "Take a shot of your desktop, a window, or region."
+categories = ["Reviews"]
+tags = ["Budgie Desktop", "Stefan Ric", "Ubuntu Budgie"]
 draft = "false"
 
 +++
@@ -27,4 +28,4 @@ There is also a recent screesnhot history that you can view directly in the appl
 
 ## Budgie Screenshot Applet for MATE?
 
-Obviously, Budgie Screenshot Applet requires the Budgie Desktop, which is native to [Solus](https://git.solus-project.com/packages/screenshot-applet/). There is also a build for [Ubuntu Budgie](https://launchpad.net/~budgie-remix/+archive/ubuntu/ppa/+build/10711585). The developer of the Budgie Screenshot Applet is [Stefan Ric](https://github.com/cybre), who recently told me he is working on a port for the [MATE](http://mate-desktop.org/) desktop. Ric  has licensed the Budgie Screenshot Applet under the [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). 
+Obviously, Budgie Screenshot Applet requires the Budgie Desktop, which is native to [Solus](https://git.solus-project.com/packages/screenshot-applet/). There is also a build for [Ubuntu Budgie](https://launchpad.net/~budgie-remix/+archive/ubuntu/ppa/+build/10711585). The developer of the Budgie Screenshot Applet is [Stefan Ric](https://github.com/cybre), who recently told me he is working on a port for the [MATE](http://mate-desktop.org/) desktop. Ric  has licensed the Budgie Screenshot Applet under the [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).

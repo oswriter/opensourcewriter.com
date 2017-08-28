@@ -1,8 +1,9 @@
 +++
 date = "2017-03-06"
 title = "Improve Your Blogging with Ghostwriter"
-description = "Ghostwriter is a Qt-based Markdown editor"
-tags = ["Text Editors"]
+description = "Ghostwriter is a Qt-based Markdown editor."
+categories = ["Reviews"]
+tags = ["Ghostwriter", "LibreOffice", "Markdown", "Ghost", "Qt", "wereturtle"]
 
 +++
 
@@ -12,14 +13,14 @@ I'm a professional blogger. I'm paid to write between 10 and 20 posts for client
 
 For many years I used [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) to draft my blog posts. But you don't really need a full-service word processor for blogging. There are basically two things I need: support for [Markdown](https://daringfireball.net/projects/markdown/syntax) and a running display of the current word count.
 
-The latter is important because, in my work, I'm usually commissioned to write a post containing a certain number of words. So it's helpful to know as you're writing how much further I have to go. As for Markdown, it's my preferred method for drafting any web content. Markdown lets you write files in plain text using specific syntax to indicate headers, formatting, links, and so forth. 
+The latter is important because, in my work, I'm usually commissioned to write a post containing a certain number of words. So it's helpful to know as you're writing how much further I have to go. As for Markdown, it's my preferred method for drafting any web content. Markdown lets you write files in plain text using specific syntax to indicate headers, formatting, links, and so forth.
 
 For example, here is how I typed the headline and first paragraph of this section in Ghostwriter using Markdown:
 
 	## Working With Markdown
-	
+
 	For many years I used [LibreOffice Writer](https://www.libreoffice.org/discover/writer/) to draft my blog posts. But you don't really need a full-service word processor for blogging. There are basically two things I need: support for [Markdown](https://daringfireball.net/projects/markdown/syntax) and a running display of the current word count.
-	
+
 Many Linux text editors, such as [Atom](https://atom.io/) and [gedit](https://wiki.gnome.org/Apps/Gedit), support Markdown syntax natively. But Ghostwriter is a Markdown-specific editor and offers a live, see-it-as-you-go preview of the finished HTML.
 
 ![](/images/2017-03-03-ghostwriter.png)

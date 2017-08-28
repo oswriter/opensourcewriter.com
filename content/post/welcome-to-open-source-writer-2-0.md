@@ -3,6 +3,7 @@ date = "2017-03-05"
 title = "Welcome to Open Source Writer 2.0"
 description = "The Solus future is now"
 tags = ["Solus"]
+draft = "True"
 
 +++
 
@@ -12,7 +13,7 @@ Over the years I've worked with a number of a Linux distributions. Some have pro
 
 ## Why Solus?
 
-Solus is an independent Linux operating system started in 2012 by [Ikey Doherty](https://github.com/ikeydoherty), a software engineer at Intel. Unlike many Linux distributions, including Ubuntu, Solus is built "from scratch," meaning it does not rely on any other project's pre-built software packages. The Solus Project manages everything internally, from compiling the Linux kernel to providing its own desktop environment called [Budgie](https://budgie-desktop.org/home/).
+Solus is an independent Linux operating system started in 2012 by [Ikey Doherty](https://github.com/ikeydoherty), a former software engineer at Intel. Unlike many Linux distributions, including Ubuntu, Solus is built "from scratch," meaning it does not rely on any other project's pre-built software packages. The Solus Project manages everything internally, from compiling the Linux kernel to providing its own desktop environment called [Budgie](https://budgie-desktop.org/home/).
 
 I switched to Solus for two main reasons. First, it is a desktop-specific operating system. Linux is based on UNIX, which was originally developed for large mainframes with multiple user workstations. Even today, Linux is more widely used on servers than laptops and desktop PCs. Indeed, most of the well-known Linux distributions support both server and desktop use.
 

@@ -1,8 +1,9 @@
 +++
 date = "2017-03-20"
 title = "Learn About Horoscopes With OpenAstro.org"
-description = "OpenAstro.org is full-featured, open source astrology software"
-tags = ["Desktop Software"]
+description = "OpenAstro.org is full-featured, open source astrology software."
+categories = ["Reviews"]
+tags = ["OpenAstro", "Python", "astrology", "Linus Torvalds", "Pelle van der Scheer"]
 
 +++
 
@@ -20,7 +21,7 @@ The inner circle displays the locations of the planets--which in astrology inclu
 
 The "Here and Now" chart is the default each time you run OpenAstro.org. But the most common analytical tool in astrology is a *natal chart*, which is the horoscope for the exact date and time of your birth. OpenAstro.org has a built-in database that lets you enter any number of dates. Of course, these do not have to be birthdays. In fact, astrolibrary.org explains that in ancient times, horoscopes were "cast for the time of certain events, such as wars, crownings, or festivals."
 
-Along those lines, I created a radix chart for a critical event in modern technology history--[Linus Torvalds' email announcing his work on the original Linux kernel](https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ). This works nicely since there is an exact date, time, and place for this event: Torvalds sent the email from Helsinki, Finland, on August 25, 1991, at 8:57:08 PM GMT. 
+Along those lines, I created a radix chart for a critical event in modern technology history--[Linus Torvalds' email announcing his work on the original Linux kernel](https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ). This works nicely since there is an exact date, time, and place for this event: Torvalds sent the email from Helsinki, Finland, on August 25, 1991, at 8:57:08 PM GMT.
 
 ![](/images/2017-03-20-openastro.png)
 

@@ -1,9 +1,9 @@
 +++
 date = "2017-04-24"
 title = "Wiki Your Desktop With Zim"
-description = "Zim is a graphical text editor used to maintain a collection of wiki pages"
-draft = "false"
-tags = ["Note-Taking Software"]
+description = "Zim is a graphical text editor used to maintain a collection of wiki pages."
+categories = ["Reviews"]
+tags = ["Zim", "Jaap Karssenberg"]
 
 +++
 

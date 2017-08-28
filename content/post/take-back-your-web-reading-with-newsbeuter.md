@@ -1,8 +1,9 @@
 +++
-tags = ["Networking Utilities"]
+categories = ["Reviews"]
+tags = ["Newsbeuter", "Andreas Krennmair"]
 date = "2017-03-27"
 title = "Take Back Your Web Reading With Newsbeuter"
-description = "Newsbeuter is a terminal-based RSS reader"
+description = "Newsbeuter is a terminal-based RSS reader."
 
 +++
 
@@ -21,7 +22,7 @@ Newsbeuter lets you categorize feeds using tags appended to the end of the URL. 
 		http://smlr.us/?feed=rss linux podcast
 		http://missionlog.libsyn.com/rss podcast
 		http://distrowatch.com/news/dw.xml linux
-		
+
 As you can see, Newsbeuter supports multiple tags per entry. I tagged the [Sunday Morning Linux Review](http://smlr.us) feed, with both *linux* and *podcast*, since it's [both a floor wax **and** a dessert topping](https://www.youtube.com/watch?v=wPO8PqHGWFU). Once in the Newsbeuter console, you can toggle a list of categories/tags by pressing 't'.
 
 By default, Newsbeuter displays a numbered list of feeds in the order specified in your ``urls`` file. You can highlight an individual feed and press 'r' to update it; pressing a capital 'R' updates all feeds at once. There is a wide range of keyboard commands and configuration options built-in to Newsbeuter, which you can learn about through the project's [comprehensive documentation](http://newsbeuter.org/doc/newsbeuter.html).

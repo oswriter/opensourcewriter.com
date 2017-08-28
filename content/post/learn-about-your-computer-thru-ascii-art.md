@@ -1,7 +1,7 @@
 +++
 date = "2017-05-01"
-description = "Neofetch is a highly customizable system info script"
-tags = ["System Utilities"]
+description = "Neofetch is a highly customizable system info script."
+tags = ["neofetch", "Xubuntu", "kernel", "Dylan Araps"]
 title = "Learn About Your Computer Thru ASCII Art"
 
 +++

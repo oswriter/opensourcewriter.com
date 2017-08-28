@@ -1,8 +1,10 @@
 +++
 date = "2017-04-18"
 title = "Download the Latest Solus Snapshots Now"
+categories = ["Reviews"]
 description = "Last stop before Budgie 11!"
 tags = ["Solus"]
+draft = "True"
 
 +++
 

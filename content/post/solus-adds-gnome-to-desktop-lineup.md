@@ -1,6 +1,7 @@
 +++
-description = "Budgie, MATE to get a new friend"
-tags = ["GNOME Desktop"]
+description = "Budgie, MATE to get a new friend."
+categories = ["Solus News"]
+tags = ["GNOME Desktop", "Budgie Desktop", "gtk", "Qt", "Ikey"]
 date = "2017-04-07"
 title = "Solus Adds GNOME to Desktop Lineup"
 
@@ -16,7 +17,7 @@ The [Solus Project](https://solus-project.com/) confirmed that it is adding a th
 
 Budgie will still remain connected to the GNOME stack for the immediate future. The upcoming Budgie 10.3 release is expected to include the latest version of the GNOME stack (3.24). The transition to Qt will not occur until the release of Budgie 11, which has yet to begin development.
 
-Solus has also maintained a [separate edition based on the MATE desktop](https://solus-project.com/2016/10/19/solus-1-2-1-shannon-released/) since last October. MATE is an update of the older GNOME 2 desktop, which was discontinued in 2010. Solus has made a number of independent contributions to MATE, notably an updated [brisk menu](https://github.com/solus-project/brisk-menu) written by Doherty. 
+Solus has also maintained a [separate edition based on the MATE desktop](https://solus-project.com/2016/10/19/solus-1-2-1-shannon-released/) since last October. MATE is an update of the older GNOME 2 desktop, which was discontinued in 2010. Solus has made a number of independent contributions to MATE, notably an updated [brisk menu](https://github.com/solus-project/brisk-menu) written by Doherty.
 
 ## Ubuntu Can Play With GNOME Too!
 

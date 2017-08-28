@@ -1,7 +1,8 @@
 +++
 date = "2017-05-08"
-description = "Pwgen creates passwords that can be easily memorized by a human"
-tags = ["Security Applications"]
+description = "Pwgen creates passwords that can be easily memorized by a human."
+categories = ["Reviews"]
+tags = ["pwgen", "Theodore Ts'o"]
 title = "Do Something About Your Terrible Passwords"
 
 +++
@@ -17,6 +18,6 @@ By default, pwgen produces a list of 160 possible passwords containing eight cha
 You can alter the output using a number of command-line options. For example, if you input ``pwgen -sy 12 1``, pwgen will produce a single, 12-character password that is completely random (`-s` stands for "secure") and contains at least one symbol (`-y`):
 
 		oswriter@nwt ~ $ pwgen -sy 12 1
-		2=+gyBvM^!nd 
+		2=+gyBvM^!nd
 
 Pwgen is written by [Theodore Ts'o](https://thunk.org/tytso/), who is also one of the oldest Linux kernel developers. He based pwgen on a prior program by Brandon S. Allbery. Pwgen is available for [Solus](https://git.solus-project.com/packages/pwgen/) and just about every other Linux distribution under the [GNU General Public License version 2](https://opensource.org/licenses/GPL-2.0).

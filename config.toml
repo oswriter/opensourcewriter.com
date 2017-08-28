@@ -1,38 +1,44 @@
-baseurl = "https://opensourcewriter.com/"
+baseurl = "https://opensourcewriter.com"
 title = "Open Source Writer"
-languageCode = "en-us"
-paginate = "10" # Number of posts per page
-theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+author = "S.M. Oliva"
+paginate = 5
+theme = "BluestNight"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+enableRobotsTXT = true # Suggested, enable robots.txt file
 
-[Author]
-    name = "S.M. Oliva"
-    bio = "I have been writing content for the web professionally since 2000. Currently I ghostwrite blogs for more than a dozen law firms, covering subjects from personal injury and bankruptcy to criminal defense and intellectual property."
-    avatar = "images/inn.jpg"
+[outputs]
+    home = ["HTML", "CSS", "JSON", "RSS"]
 
 [Params]
-    subtitle = "Solus is Life" # Subtitle of your site
-    description = "A guide to using software on Solus, a Linux-based operating system" # Description of your site
-    opengraph = true
-    readmore = true # Show "Read more" button in list if true
-    leftsidebar = false # Move sidebar to the left side if true
+    tagline = "Solus Is Life"
+    description = "A blog covering Solus, a Linux-based operating system, and other subjects related to open source software" # Description of your site
     authorbox = true
-    post_navigation = true
-    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
-    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
-    #dateformat = "2006-01-02" # change the format of dates
+    author = "S.M. Oliva"
+    post_navigation = false
+    alert = "Solus 3 was released on August 15, 2017! Download it [here](https://solus-project.com/download/)."
+
+[Params.color]
+    page_background = "#000000"
+    main_background = "#050505"
+    alt_background = "#4C5164"
+    main_text = "#e2e2e2"
+    alt_text = "#e2e2e2"
+    accent = "#5090DD"
+    accent_text = "#e2e2e2"
 
 [Params.widgets]
-    search = true # Enable "Search" widget
-    recent_articles = true # Enable "Recent articles" widget
-    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
-    categories = true # Enable "Categories" widget
-    tags = false # Enable "Tags" widget
-    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
-    social = true # Enable "Social" widget
-    social_facebook = ""
-    social_twitter = ""
-    social_linkedin = ""
-    social_github = "oswriter"
-    social_email = "smo@skipoliva.com"
+    search = true
+    recent_articles = true
+    categories = true
+    tags = false
+    tags_counter = false
+    patreon = ""
+
+[Params.social]
+    github = "oswriter"
+    googleplus = "u/1/114649717339477494492"
+    telegram = "oswriter"
+    youtube = "playlist?list=PL-SnlI1M7z9vbL31r0Q3JuCWkw9i7_7yN"
+
+[menu]

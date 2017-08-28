@@ -1,7 +1,8 @@
 +++
 title = "Controlling Your Photo Library With Fotoxx"
-description = "Fotoxx is an open source image editor and management program"
-tags = ["Graphics"]
+description = "Fotoxx is an open source image editor and management program."
+categories = ["Reviews"]
+tags = ["Fotoxx", "Michael Cornelison", "OpenStreetMap"]
 date = "2017-04-03"
 
 +++
@@ -20,7 +21,7 @@ Once you select an image, there's a wide variety of tools available. In my case 
 
 Fotoxx also lets you edit the metadata of your image files. This includes tagging an image to a specific geographic location. These tags can then be displayed on a built-in world map feature (which uses [OpenStreetMap](https://www.openstreetmap.org)). By clicking a location on the map, as marked by a red spot, you can instantly view the tagged photos. Metadata also enables you to search photos by categories or date.
 
-One final notable feature of Fotoxx: You can instantly create slideshows from a folder or selection of images. There are a couple of dozen transition animations available, and you can even add a music file to play during the slideshow. 
+One final notable feature of Fotoxx: You can instantly create slideshows from a folder or selection of images. There are a couple of dozen transition animations available, and you can even add a music file to play during the slideshow.
 
 ## Who Is Behind Fotoxx?
 
@@ -29,4 +30,3 @@ Fotoxx celebrated its most recent release (v. 17.04) on April 1. [Solus](https:/
 ### Editor's Note
 
 The [original color photograph](https://commons.wikimedia.org/wiki/File:VW_ccon_arte_mexicano.jpg) of the automobile shown above is by Reyung Cho and used here under a [Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
-

@@ -3,6 +3,7 @@ date = "2017-08-20"
 tags = ["Solus", "Budgie Desktop", "Ikey", "elementary", "Ubuntu MATE", "Linux Mint", "Pantheon", "Cinnamon", "GNOME", "Snaps", "Flatpak", "GTK", "Qt"]
 categories = ["Big Picture"]
 title = "Solus 3 and the Road Ahead"
+description = "Solus gains snaps, an updated Linux kernel, and questions about the future."
 +++
 
 August 15 marked the release of [Solus 3](https://solus-project.com/2017/08/15/solus-3-released/), which is so numbered because it is the "third iteration" of the Linux-based operating system since its move to a "rolling" release model in 2016. This release comes with the latest version of the [Budgie Desktop](https://budgie-desktop.org/2017/08/18/release-of-budgie-10-4/) (10.4) and also provides built-in support for [Snaps](https://snapcraft.io/docs/snaps/intro), the self-contained packaging format sponsored by Canonical Ltd., the parent company of [Ubuntu](https://www.ubuntu.com/). Solus 3 also represents a shift away from default installation of the long-term support branch of the [Linux kernel](https://www.kernel.org/) (4.9.x) to the latest stable release (4.12.8 as of this writing).
