@@ -1,7 +1,7 @@
 baseurl = "https://opensourcewriter.com"
 title = "Open Source Writer"
 author = "S.M. Oliva"
-paginate = 5
+paginate = 10
 theme = "BluestNight"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
