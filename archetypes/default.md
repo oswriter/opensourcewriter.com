@@ -1,4 +1,7 @@
 +++
+date = ""
+title = ""
+description = ""
+categories = [""]
 tags = [""]
-description=""
 +++
