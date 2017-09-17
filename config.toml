@@ -36,6 +36,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     patreon = ""
 
 [Params.social]
+    email = "oswriter2@gmail.com"
     github = "oswriter"
     googleplus = "u/1/114649717339477494492"
     telegram = "oswriter"

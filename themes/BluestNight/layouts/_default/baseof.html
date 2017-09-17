@@ -99,26 +99,46 @@
         {{ if (not .Site.Params.leftsidebar) }}{{ partial "sidebar.html" . }}{{ end }}
       </div>
       <footer class="row">
-        <div class="small-full medium-{{ if $.Site.Params.piwik.enable_optout -}}third{{ else }}half{{ end }} row-item small-text-center medium-text-left medium-left">
-          <small>
-            &copy; 2017
-            <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-              <span itemprop="name">S.M. Oliva</span>
-              <span itemprop="license"><a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0)</a></span>
-            </span>
-          </small>
+        <div class="small-full medium-{{ if $.Site.Params.piwik.enable_optout -}}third{{ else }}half{{ end }} small-text-center medium-text-left medium-left row">
+          <div class="small-full">
+            <small>
+              &copy; 2017
+              <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+                <span itemprop="name">S.M. Oliva</span>
+                <span itemprop="license"><a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0)</a></span>
+              </span>
+            </small>          </div>
+          <div class="small-full">
+            {{ if $.Site.Params.iubenda.id }}
+              {{ partial "iubenda.html" . }}
+            {{ else }}
+              {{ if or ($.Site.GetPage "page" "privacy-policy.md") ($.Site.GetPage "page" "terms-of-use.md") }}
+              <small>
+                {{ with $.Site.GetPage "page" "privacy-policy.md" }}
+                <a href="{{- ref . "privacy-policy.md" -}}">Privacy Policy</a>
+                {{ end }}
+                {{ with $.Site.GetPage "page" "terms-of-use.md" -}}
+                <a href="{{- ref . "terms-of-use.md" -}}">Terms of Use</a>
+                {{ end }}
+              </small>
+              {{ end }}
+            {{ end }}
+          </div>
         </div>
         {{ if and $.Site.Params.piwik $.Site.Params.piwik.enable_optout -}}
         {{- with $.Site.Params.piwik.host -}}
-        <div class="small-full medium-third row-item small-text-center medium-text-center small-right">
+        <div class="small-full medium-third small-text-center medium-text-center small-right">
           This site uses <a href="http://piwik.org/" rel="nofollow noreferrer">Piwik Analytics</a>.<br/>
           <a href="#" id="toggle-tracking">Click here</a> to opt <span id="toggle-tracking-text">out</span>.
         </div>
         {{- end -}}
         {{- end }}
-        <div class="small-full medium-{{ if $.Site.Params.piwik.enable_optout -}}third{{ else }}half{{ end }} row-item small-text-center medium-text-right" id="social-icons">
-          {{ with .Site.Params.social.deviantart }}<a href="https://{{ . }}.deviantart.com" rel="author">
+        <div class="small-full medium-{{ if $.Site.Params.piwik.enable_optout -}}third{{ else }}half{{ end }} small-text-center medium-text-right" style="align-self: center;" id="social-icons">
+          {{ with .Site.Params.social.deviantart }}<a href="https://{{ . }}.deviantart.com" rel="me nofollow">
             <span class="fa fa-deviantart"></span>
+          </a>{{ end }}
+          {{ with .Site.Params.social.email }}<a href="mailto:{{ . }}" rel="me nofollow">
+            <span class="fa fa-envelope"></span>
           </a>{{ end }}
           {{ with .Site.Params.social.facebook }}<a href="https://facebook.com/{{ . }}" rel="me nofollow">
             <span class="fa fa-facebook-official"></span>
@@ -177,7 +197,7 @@
           {{ with .Site.Params.social.vimeo }}<a href="https://vimeo.com/{{ . }}" rel="me nofollow">
             <span class="fa fa-vimeo"></span>
           </a>{{ end }}
-          {{ with .Site.Params.social.youtube }}<a href="https://www.youtube.com/user/{{ . }}" rel="me nofollow">
+          {{ with .Site.Params.social.youtube }}<a href="https://www.youtube.com/{{ . }}" rel="me nofollow">
             <span class="fa fa-youtube"></span>
           </a>{{ end }}
         </div>
