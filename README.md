@@ -1,6 +1,6 @@
 ## OpenSourceWriter.com
 
-This is the [Hugo](https://gohugo.io/) source code for the website [Open Source Writer](https://opensourcewriter.com), published by [S.M. Oliva](https://skipoliva.com).
+This is the [Hugo](https://gohugo.io/) source code for the website Open Source Writer, published by [S.M. Oliva](https://skipoliva.com). This project is currently inactive.
 
 ### License
 
